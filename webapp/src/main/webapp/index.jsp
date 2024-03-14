@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> ****  Navami offers available till 21st April 2024 **** </h1>   
+         <h1> ****  Sri Ram Navami offers available till 21st April 2024 **** </h1>   
 	 
 
     </section>    
